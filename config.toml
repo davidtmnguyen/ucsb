@@ -22,13 +22,13 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "David Nguyen"
   role = "Ph.D. student in Mathematics"
-  organization = "U.C. Santa Barbara"
+  organization = "University of California, Santa Barbara"
   organization_url = "http://web.math.ucsb.edu/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "pic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "davidtmnguyen@gmail.com"
-  address = "South Hall 6431U, Department of Mathematics, UCSB, Santa Barbara, CA 93106"
-  office_hours = ""
+  address = "Department of Mathematics, UCSB, Santa Barbara, CA 93106"
+  office_hours = "South Hall 6431U"
   phone = ""
   skype = ""
   telegram = ""
@@ -153,37 +153,47 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Home"
   url = "#about"
-  weight = 1
+  weight = 10
 
 #[[menu.main]]
 #  name = "Publications"
 #  url = "#publications_selected"
-#  weight = 2
+#  weight = 20
+
+[[menu.main]]
+  name = "Research"
+  url = "#publications"
+  weight = 30
 
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 3
+  weight = 32
+
+[[menu.main]]
+  name = "Conferences"
+  url = "#conferences"
+  weight = 35
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 3
+  weight = 35
 
 [[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 4
+  weight = 40
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 5
+  weight = 50
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 60
 
 # Taxonomies.
 [taxonomies]

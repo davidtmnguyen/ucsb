@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>https://davidtmnguyen.github.io/ucsb/publication/</loc>
-      <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+      <loc>https://davidtmnguyen.github.io/ucsb/post/resources/</loc>
+      <lastmod>2017-06-22T23:40:33-07:00</lastmod>
     </url>
     
   
@@ -14,8 +14,17 @@
     
     <url>
     
-      <loc>https://davidtmnguyen.github.io/ucsb/talk/scdms2017/</loc>
-      <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+      <loc>https://davidtmnguyen.github.io/ucsb/post/tips-for-first-years/</loc>
+      <lastmod>2017-06-22T23:38:43-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://davidtmnguyen.github.io/ucsb/publication/</loc>
+      <lastmod>2017-06-20T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -32,7 +41,7 @@
     
     <url>
     
-      <loc>https://davidtmnguyen.github.io/ucsb/talk/170413-ucla-combinatorics/</loc>
+      <loc>https://davidtmnguyen.github.io/ucsb/conferences/ucla-combinatorics/</loc>
       <lastmod>2017-04-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +50,7 @@
     
     <url>
     
-      <loc>https://davidtmnguyen.github.io/ucsb/talk/ucla-combinatorics/</loc>
+      <loc>https://davidtmnguyen.github.io/ucsb/talk/170413-ucla-combinatorics/</loc>
       <lastmod>2017-04-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,15 +77,6 @@
     
     <url>
     
-      <loc>https://davidtmnguyen.github.io/ucsb/publication/basketball-paths/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://davidtmnguyen.github.io/ucsb/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -95,6 +95,15 @@
     
     <url>
     
+      <loc>https://davidtmnguyen.github.io/ucsb/publication/basketball-paths/</loc>
+      <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://davidtmnguyen.github.io/ucsb/talk/160629-michelfest/</loc>
       <lastmod>2016-06-29T00:00:00+00:00</lastmod>
     </url>
@@ -104,7 +113,16 @@
     
     <url>
     
-      <loc>https://davidtmnguyen.github.io/ucsb/project/deep-learning/</loc>
+      <loc>https://davidtmnguyen.github.io/ucsb/post/quals-analysis/</loc>
+      <lastmod>2016-06-07T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://davidtmnguyen.github.io/ucsb/project/analytic-combinatorics/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,44 +131,8 @@
     
     <url>
     
-      <loc>https://davidtmnguyen.github.io/ucsb/project/example-external-project/</loc>
+      <loc>https://davidtmnguyen.github.io/ucsb/project/number-theory-seminar/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://davidtmnguyen.github.io/ucsb/post/getting-started/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://davidtmnguyen.github.io/ucsb/post/widgets/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://davidtmnguyen.github.io/ucsb/post/managing-content/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://davidtmnguyen.github.io/ucsb/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     </url>
     
   
@@ -176,15 +158,6 @@
     
     <url>
     
-      <loc>https://davidtmnguyen.github.io/ucsb/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://davidtmnguyen.github.io/ucsb/talk/131002-ams/</loc>
       <lastmod>2013-10-02T00:00:00+00:00</lastmod>
     </url>
@@ -194,8 +167,18 @@
     
     <url>
     
-      <loc>https://davidtmnguyen.github.io/ucsb/publication_types/1/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>https://davidtmnguyen.github.io/ucsb/tags/advice/</loc>
+      <lastmod>2017-06-22T23:38:43-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://davidtmnguyen.github.io/ucsb/tags/analysis/</loc>
+      <lastmod>2016-06-07T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -205,6 +188,26 @@
     <url>
     
       <loc>https://davidtmnguyen.github.io/ucsb/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://davidtmnguyen.github.io/ucsb/tags/combinatorics/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://davidtmnguyen.github.io/ucsb/conferences/</loc>
+      <lastmod>2017-04-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -223,38 +226,18 @@
     
     <url>
     
-      <loc>https://davidtmnguyen.github.io/ucsb/tags/deep-learning/</loc>
+      <loc>https://davidtmnguyen.github.io/ucsb/tags/local/</loc>
+      <lastmod>2013-10-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://davidtmnguyen.github.io/ucsb/tags/number-theory/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://davidtmnguyen.github.io/ucsb/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://davidtmnguyen.github.io/ucsb/tags/hugo/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://davidtmnguyen.github.io/ucsb/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -274,7 +257,26 @@
     <url>
     
       <loc>https://davidtmnguyen.github.io/ucsb/publication_types/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://davidtmnguyen.github.io/ucsb/tags/qual/</loc>
+      <lastmod>2016-06-07T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://davidtmnguyen.github.io/ucsb/tags/resources/</loc>
+      <lastmod>2017-06-22T23:40:33-07:00</lastmod>
       <priority>0</priority>
     </url>
     

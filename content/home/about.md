@@ -24,17 +24,22 @@ weight = 1
   year = 2022
 
 [[education.courses]]
-  course = "M.S. in Mathematics"
+  course = "Master of Science in Mathematics"
   institution = "Cal Poly Pomona"
   year = 2016
 
 [[education.courses]]
-  course = "B.S. in Mathematics"
+  course = "Bachelor of Science in Mathematics"
   institution = "Cal Poly Pomona"
   year = 2014
 
+ [[education.courses]]
+  course = "Student in Mechanical Engineering"
+  institution = "Cal Poly Pomona"
+  year = 2012
+
 [[education.courses]]
-  course = "A.S. in Engineering"
+  course = "Associate of Science in Engineering"
   institution = "Orange Coast College"
   year = 2009
  
@@ -42,6 +47,6 @@ weight = 1
 
 # Biography
 
-Welcome to my website. My name is David Nguyễn. I am a graduate student in Mathematics at the University of California, Santa Barbara. I am interested in Mathematics and its relation to Physics.
+Welcome to my website. My name is David Nguyễn. I am a graduate student in Mathematics at the University of California, Santa Barbara. I am interested in Mathematics and its relation to Physics. Click [here](http://web.math.ucsb.edu/~dnguyen/cv.pdf) for my CV.
 
 Below is my academic journey. I started my undergraduate studies as an engineering major, latter switched to Mathematics.

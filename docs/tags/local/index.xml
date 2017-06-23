@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local on David Nguyen&#39;s Homepage</title>
+    <link>https://davidtmnguyen.github.io/ucsb/tags/local/</link>
+    <description>Recent content in Local on David Nguyen&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 David Nguyen</copyright>
+    <lastBuildDate>Wed, 02 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/ucsb/tags/local/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Western Fall Sectional Meeting of the AMS (Contributed Paper Session)</title>
+      <link>https://davidtmnguyen.github.io/ucsb/talk/131002-ams/</link>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtmnguyen.github.io/ucsb/talk/131002-ams/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

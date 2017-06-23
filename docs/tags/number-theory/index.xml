@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Number Theory on David Nguyen&#39;s Homepage</title>
+    <link>https://davidtmnguyen.github.io/ucsb/tags/number-theory/</link>
+    <description>Recent content in Number Theory on David Nguyen&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 David Nguyen</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/ucsb/tags/number-theory/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Graduate Number Theory Seminar</title>
+      <link>https://davidtmnguyen.github.io/ucsb/project/number-theory-seminar/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtmnguyen.github.io/ucsb/project/number-theory-seminar/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Spring 2017: Tuesdays 2pm-3pm, South Hall 4607B.&lt;/li&gt;
+&lt;li&gt;Winter 2017: Fridays 12pm-1pm, South Hall 4607B.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

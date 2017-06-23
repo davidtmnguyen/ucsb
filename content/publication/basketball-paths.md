@@ -1,26 +1,26 @@
 +++
-abstract = "This article deals with the enumeration of directed lattice walks on the integers with any finite set of steps, starting at a given altitude $j$ and ending at a given altitude $k$, with additional constraints such as, for example, to never attain altitude 0 in-between. We first discuss the case of walks on the integers with steps $−h,…,−1,+1,…,+h$. The case $h=1$ is equivalent to the classical Dyck paths, for which many ways of getting explicit formulas involving Catalan-like numbers are known. The case $h=2$ corresponds to 'basketball' walks, which we treat in full detail. Then we move on to the more general case of walks with any finite set of steps, also allowing some weights/probabilities associated with each step. We show how a method of wide applicability, the so-called 'kernel method', leads to explicit formulas for the number of walks of length $n$, for any $h$, in terms of nested sums of binomials. We finally relate some special cases to other combinatorial problems, or to problems arising in queuing theory."
+abstract = "This article deals with the enumeration of directed lattice walks on the integers with any finite set of steps, starting at a given altitude $j$ and ending at a given altitude $k$, with additional constraints such as, for example, to never attain altitude 0 in-between. We first discuss the case of walks on the integers with steps $−h,…,−1,+1,…,+h$. The case $h=1$ is equivalent to the classical Dyck paths, for which many ways of getting explicit formulas involving Catalan-like numbers are known. The case $h=2$ corresponds to 'basketball' walks, which we treat in full detail. Then we move on to the more general case of walks with any finite set of steps, also allowing some weights/probabilities associated with each step. We show how a method of wide applicability, the so-called 'kernel method', leads to explicit formulas for the number of walks of length $n$, for any $h,$ in terms of nested sums of binomials. We finally relate some special cases to other combinatorial problems, or to problems arising in queuing theory."
 
 authors = ["Cyril Banderier", "Christian Krattenthaler", "Alan Krinik", "Dmitry Kruchinin", "Vladimir Kruchinin", "David Nguyen", "Michael Wallner"]
 
-date = "2017-01-01"
-image_preview = ""
+date = "2016-09-01"
+image_preview = "lattice.jpg"
 math = true
-publication_types = ["1"]
+#publication_types = ["1"]
 publication = ""
 publication_short = ""
 selected = true
 title = "Explicit formulas for enumeration of lattice paths: basketball and the kernel method"
-url_code = "#"
-url_dataset = "#"
+url_code = ""
+url_dataset = ""
 url_pdf = "https://arxiv.org/pdf/1609.06473.pdf"
-url_project = "project/deep-learning/"
-url_slides = "#"
-url_video = "#"
+url_project = "project/analytic-combinatorics/"
+url_slides = ""
+url_video = ""
 
-[[url_custom]]
-name = "Custom Link"
-url = "http://www.example.org"
+#[[url_custom]]
+#name = "Custom Link"
+#url = "http://www.example.org"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

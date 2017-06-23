@@ -26,10 +26,14 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Combinatorics"
+  tag = ".combinatorics"
 
 [[filter]]
+  name = "Number Theory"
+  tag = ".number-theory"
+
+ [[filter]]
   name = "Other"
   tag = ".demo"
 

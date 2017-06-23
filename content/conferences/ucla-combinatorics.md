@@ -7,7 +7,7 @@ event = "UCLA"
 event_url = ""
 location = "UCLA"
 
-selected = false
+selected = true
 math = true
 
 url_pdf = ""
@@ -20,6 +20,3 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++
-
-
-Embed your slides or video here using [shortcodes](https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. 
