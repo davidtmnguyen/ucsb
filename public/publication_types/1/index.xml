@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on David Nguyen&#39;s Homepage</title>
-    <link>http://web.math.ucsb.edu/~dnguyen/test/publication_types/1/</link>
+    <link>https://davidtmnguyen.github.io/publication_types/1/</link>
     <description>Recent content in 1 on David Nguyen&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 David Nguyen</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/~dnguyen/test/publication_types/1/" rel="self" type="application/rss+xml" />
+    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Explicit formulas for enumeration of lattice paths: basketball and the kernel method</title>
-      <link>http://web.math.ucsb.edu/~dnguyen/test/publication/basketball-paths/</link>
+      <link>https://davidtmnguyen.github.io/publication/basketball-paths/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://web.math.ucsb.edu/~dnguyen/test/publication/basketball-paths/</guid>
+      <guid>https://davidtmnguyen.github.io/publication/basketball-paths/</guid>
       <description></description>
     </item>
     
