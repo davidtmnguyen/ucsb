@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on David Nguyen&#39;s Homepage</title>
-    <link>https://davidtmnguyen.github.io/talk/</link>
+    <link>https://davidtmnguyen.github.io/public/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on David Nguyen&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 David Nguyen</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    <atom:link href="/public/talk/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>2nd Southern California Discrete Math Symposium</title>
-      <link>https://davidtmnguyen.github.io/talk/scdms2017/</link>
+      <link>https://davidtmnguyen.github.io/public/talk/scdms2017/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://davidtmnguyen.github.io/talk/scdms2017/</guid>
+      <guid>https://davidtmnguyen.github.io/public/talk/scdms2017/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>2nd Southern California Discrete Math Symposium (Poster)</title>
-      <link>https://davidtmnguyen.github.io/talk/170520-scdms2017/</link>
+      <link>https://davidtmnguyen.github.io/public/talk/170520-scdms2017/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://davidtmnguyen.github.io/talk/170520-scdms2017/</guid>
+      <guid>https://davidtmnguyen.github.io/public/talk/170520-scdms2017/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>UCLA, Combinatorics Seminar</title>
-      <link>https://davidtmnguyen.github.io/talk/170413-ucla-combinatorics/</link>
+      <link>https://davidtmnguyen.github.io/public/talk/170413-ucla-combinatorics/</link>
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://davidtmnguyen.github.io/talk/170413-ucla-combinatorics/</guid>
+      <guid>https://davidtmnguyen.github.io/public/talk/170413-ucla-combinatorics/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>UCLA, Combinatorics Seminar</title>
-      <link>https://davidtmnguyen.github.io/talk/ucla-combinatorics/</link>
+      <link>https://davidtmnguyen.github.io/public/talk/ucla-combinatorics/</link>
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://davidtmnguyen.github.io/talk/ucla-combinatorics/</guid>
+      <guid>https://davidtmnguyen.github.io/public/talk/ucla-combinatorics/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Graduate Student Combinatorics Conference 2017</title>
-      <link>https://davidtmnguyen.github.io/talk/170408-gscc2017/</link>
+      <link>https://davidtmnguyen.github.io/public/talk/170408-gscc2017/</link>
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://davidtmnguyen.github.io/talk/170408-gscc2017/</guid>
+      <guid>https://davidtmnguyen.github.io/public/talk/170408-gscc2017/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Summer School on Fractal Geometry</title>
-      <link>https://davidtmnguyen.github.io/talk/160629-michelfest/</link>
+      <link>https://davidtmnguyen.github.io/public/talk/160629-michelfest/</link>
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://davidtmnguyen.github.io/talk/160629-michelfest/</guid>
+      <guid>https://davidtmnguyen.github.io/public/talk/160629-michelfest/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CPP, Spring Colloquium Series</title>
-      <link>https://davidtmnguyen.github.io/talk/160420-cpp/</link>
+      <link>https://davidtmnguyen.github.io/public/talk/160420-cpp/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://davidtmnguyen.github.io/talk/160420-cpp/</guid>
+      <guid>https://davidtmnguyen.github.io/public/talk/160420-cpp/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>8th International Conference on Lattice Path Combinatorics and Applications (with Alan Krinik)</title>
-      <link>https://davidtmnguyen.github.io/talk/150818-lattice-conference/</link>
+      <link>https://davidtmnguyen.github.io/public/talk/150818-lattice-conference/</link>
       <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://davidtmnguyen.github.io/talk/150818-lattice-conference/</guid>
+      <guid>https://davidtmnguyen.github.io/public/talk/150818-lattice-conference/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Western Fall Sectional Meeting of the AMS (Contributed Paper Session)</title>
-      <link>https://davidtmnguyen.github.io/talk/131002-ams/</link>
+      <link>https://davidtmnguyen.github.io/public/talk/131002-ams/</link>
       <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://davidtmnguyen.github.io/talk/131002-ams/</guid>
+      <guid>https://davidtmnguyen.github.io/public/talk/131002-ams/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
